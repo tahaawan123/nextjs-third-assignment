@@ -11,7 +11,10 @@ Currently, I am expanding my knowledge by learning Next.js, a powerful framework
 In addition to my technical skills, I am committed to continuous learning and staying updated with the latest trends and technologies in the web development field. Balancing my studies with practical projects has been a rewarding challenge, as I strive to apply what I learn in real-world scenarios.
 
 I am excited about the future of web development and look forward to taking on new challenges and collaborating with others in this dynamic field.
-
+<br /><br />
+Thank you for taking the time to learn more about me. I hope to connect with you soon!</p>
+<p className='mt-5 font-bold text-2xl'>
+  Muhammad Taha
 </p>
     </div>
   )
