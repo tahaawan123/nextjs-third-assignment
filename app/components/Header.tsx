@@ -1,6 +1,5 @@
 import React from 'react'
 import Link from 'next/link'
-import Aboutpage from '../about/page'
 const HeaderPage = () => {
   return (
     <div>
